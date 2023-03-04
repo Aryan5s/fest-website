@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "title": "ICI Fest 2022",
+    "paragraph": "Swami Keshvanad Institute of Technology, Management and Gramothan, Jaipur"
+  },
+  "About": {
+    "paragraph": "The fest will aspire the young brains to showcase their skills and compete with others by participating in various technical events and workshop."
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Inaugural Ceremony",
+        "degree": "Location",
+        "graduated": "10:00 am",
+        "description": "Message"
+      },
+      {
+        "school": "Inauguration of Civil Expo with High Tea",
+        "degree": "Location",
+        "graduated": "11:00 am",
+        "description": "Message"
+      },
+      {
+        "school": "Initiation of Charcha se Samadhan, Technical Events, Workshops",
+        "degree": "Location",
+        "graduated": "11:30 am",
+        "description": "Message"
+      },
+      {
+        "school": "Technical Talk with Industry Experts",
+        "degree": "Location",
+        "graduated": "02:00 pm",
+        "description": "Message"
+      }
+    ],
+    "work": [
+      {
+        "company": "Walkathon",
+        "title": "Location ",
+        "years": "07:00 am",
+        "description": "Message"
+      },
+      {
+        "company": "Cricket Match",
+        "title": "Location ",
+        "years": "10:00 am",
+        "description": "Message",
+        "Link": { "href": "#about" },
+        "LinkText": "Know More"
+      },
+      {
+        "company": "High Tea",
+        "title": "Location ",
+        "years": "11:00 am",
+        "description": "Message"
+      },
+      {
+        "company": "Technical Talk",
+        "title": "Location ",
+        "years": "12:00 am",
+        "description": "Message"
+      },
+      {
+        "company": "Valedictory Ceremony",
+        "title": "Location ",
+        "years": "01:00 am",
+        "description": "Message"
+      },
+      {
+        "company": "Site Visit",
+        "title": "Location",
+        "years": "02:00 pm",
+        "description": "Message"
+      }
+    ]
+  },
+  "Services": [
+    {
+      "name": "Events and Workshop",
+      "img": "img/1.png"
+    },
+    {
+      "name": "Charcha se Samadhan",
+      "img": "img/1.png"
+    },
+    {
+      "name": "Civil Expo",
+      "img": "img/1.png"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.png",
+      "name": "Sonal Meena"
+    },
+    {
+      "img": "img/team/2.png",
+      "name": "Jenisha Devnani"
+    },
+    {
+      "img": "img/team/3.png",
+      "name": "Chitransh Srivastava"
+    },
+    {
+      "img": "img/team/4.png",
+      "name": "Youvan Jain"
+    }
+  ],
+  "TechTeam": [
+    {
+      "img": "img/team/5.png",
+      "name": "Sumit Dangda"
+    },
+    {
+      "img": "img/team/6.png",
+      "name": "Hardik Sharma"
+    }
+  ],
+  "Sponsor": [
+    {
+      "img": "img/5.png"
+    },
+    {
+      "img": "img/4.png"
+    },
+    {
+      "img": "img/7.png"
+    },
+    {
+      "img": "img/6.png"
+    },
+    {
+      "img": "img/1.png"
+    },
+    {
+      "img": "img/2.png"
+    },
+    {
+      "img": "img/3.png"
+    }
+  ],
+  "Contact": {
+    "address": "SKIT Campus, Ram Nagariya Rd, Shivam Nagar, Jagatpura, Jaipur, Rajasthan 302017 ",
+    "phone": "+91 8278631943",
+    "phone1": "+91 7742149493",
+    "phone2": "+91 93763 43101",
+    "email": "icifest@skit.ac.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
